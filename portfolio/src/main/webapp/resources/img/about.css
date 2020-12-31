@@ -1,0 +1,55 @@
+body 
+	{  
+	background: url(014.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-size:100%;	 
+	}
+p
+{
+	font-size: 28px;
+	font-family: 'Satisfy', cursive;
+}
+
+@media (max-width: 600px) {
+ p {      
+		text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  body {      
+  background: url('017.jpg') repeat-x;
+  }
+}
+@media (max-width:600px){
+	p.hi1{
+		margin-left:-55px;
+ 
+	}
+	}
+hr{
+	    	background: white;	
+	    }
+
+		.contact-form{
+			background:rgba(0,0,0, .6);
+			color:white;
+			margin-top: 20px;
+			margin-bottom:20px;
+			padding: 20px;
+			box-shadow: 0px 0px 10px 3px grey;
+		}
+	
+	.hey
+	{
+		background:url(020.jpg);
+				background-size: cover;
+		background-repeat: no-repeat;
+	}	
+	.h1style{
+		color:white;
+		text-align:center;	
+	}
+	

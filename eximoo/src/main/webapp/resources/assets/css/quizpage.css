@@ -1,0 +1,14 @@
+.question{
+	transform: scale(0.65); position: relative; top: -100px;
+}
+
+
+.questionoption{
+	transform: scale(1.6); margin-right: 10px; vertical-align: middle; margin-top: -2px;
+}
+.answer{
+	 padding: 5px; font-size: 2.1rem;
+}
+.subbutton{
+	width: 100px; height: 40px; border-radius: 3px; background-color: lightblue; font-weight: 700;
+}
